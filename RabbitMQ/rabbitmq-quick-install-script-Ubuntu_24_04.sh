@@ -1,4 +1,3 @@
-
 #!/bin/sh
 
 sudo apt-get install curl gnupg apt-transport-https -y
